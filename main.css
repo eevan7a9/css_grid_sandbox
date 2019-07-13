@@ -8,3 +8,20 @@
 body {
   height: 100%;
 }
+
+/* Styling Starts. . . */
+.box1 {
+  background: rgb(118, 92, 231);
+}
+.box2 {
+  background: rgb(141, 216, 126);
+}
+.box3 {
+  background: rgb(210, 231, 92);
+}
+.box4 {
+  background: rgb(153, 29, 153);
+}
+.box5 {
+  background: rgb(231, 92, 92);
+}
